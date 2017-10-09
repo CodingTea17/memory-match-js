@@ -1,0 +1,16 @@
+.bg-success {
+  background-color: #194D1E !important;
+}
+.card {
+  width: 250px;
+  height: 250px;
+  margin-top: 30px;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+.hidden {
+  display: none;
+  margin: auto;
+}
